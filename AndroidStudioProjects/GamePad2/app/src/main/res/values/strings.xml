@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DieuKhienXe</string>
+    <string name="error_connect">Failed to connect</string>
+    <string name="nav_switch_mode">Dark Mode</string>
+    <string name="nav_logout">Log Out</string>
+    <string name="rememberme">Remember me</string>
+
+    <string name="enter_your_ip">Enter your car IP</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer close</string>
+    <string name="connect">Connect</string>
+
+</resources>
