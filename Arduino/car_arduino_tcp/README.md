@@ -1,6 +1,7 @@
 # RC Car
 ## Car frame:
 - Using 4 gear reducer motor
-![rc_frame.jpg](https://github.com/attain7710/DieuKhienXeTuXa/tree/master/images/rc_frame.jpg)
+<image src="/images/rc_frame.jpg" width="50%">
+  
 - Motor controlled by module L298
-![L298.jpg](https://github.com/attain7710/DieuKhienXeTuXa/tree/master/images/L298N-module.jpg)
+<image src="/images/L298N-module.jpg" width="50%">
