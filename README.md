@@ -1,5 +1,5 @@
 # RC Car
-![ic_launcher.png](https://drive.google.com/file/d/1TRt-f822zb5dA_8nsamafPPwDEJlFi8J/view)
+<img src="/images/ic_launcher.png" width="100%">
 ## Control through SERVER
 ### Android application send message to TCP SERVER then SERVER send this message to module WiFi on the car
 **1. Prepare**
